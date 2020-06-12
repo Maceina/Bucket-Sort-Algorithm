@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\maceina\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\maceina\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_BucketSort_OP.-412635719.00" t="ExcludeRecursive" />
+    <e p="C:\Users\maceina\Desktop\Bucket_OP\BucketSort_OP" t="IncludeFlat">
+      <e p="BucketSort_OP" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BucketSort_OP.csproj" t="IncludeRecursive" />
+        <e p="MyDataArray.cs" t="Include" />
+        <e p="MyDataList.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="BucketSort_OP.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="BucketSort_OP.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
